@@ -1,4 +1,4 @@
-.hero {
+.body {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -72,6 +72,11 @@
 }
 
 /* Heading */
+
+.visually-hidden {
+  position: fixed;
+  visibility: hidden;
+}
 
 .subtitle,
 .add-section__subtitle {
